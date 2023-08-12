@@ -41,3 +41,18 @@ Refer red comments as explanations.
 <p align="left">
   <img src="/Images/DriverInfo.png" alt="Driver Info page" width="327" height="627">
 </p>
+
+## Upload ID page
+<p align="left">
+  <img src="/Images/UploadID.png" alt="Upload ID page" width="327" height="627">
+</p>
+
+## Upload License page
+<p align="left">
+  <img src="/Images/UploadLicense.png" alt="Upload License page" width="327" height="627">
+</p>
+
+## Account page
+<p align="left">
+  <img src="/Images/Account.png" alt="Account page" width="327" height="627">
+</p>
