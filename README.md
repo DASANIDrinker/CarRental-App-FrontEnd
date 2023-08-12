@@ -1,5 +1,5 @@
 # CarRental-App-FrontEnd
-A front end for a wechat car rental application.
+A front end for a wechat car rental application.<br>
 Refer red comments as explanations.
 
 ## Home page 
