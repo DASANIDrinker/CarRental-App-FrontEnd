@@ -2,6 +2,18 @@
 A front end for a wechat car rental application.<br>
 Refer red comments as explanations.
 
+## Build Setup
+
+``` bash
+
+# download Wechat Developer Tool
+https://developers.weixin.qq.com/miniprogram/en/dev/devtools/stable.html
+
+# open file inside Wechat Developer Tool and click on Compile button to run the code
+
+```
+
+
 ## Home page 
 When user tap on the dates in home page, the app navigates users to select data page and select time page.
 <p align="left">
