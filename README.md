@@ -1,7 +1,12 @@
 # CarRental-App-FrontEnd
 
 > A front end for a wechat car rental application.<br>
-> Refer red comments as explanations.
+> <br>
+> Refer red comments as explanations.<br>
+> <br>
+> Here is the link to the back end of this project:https://github.com/DASANIDrinker/CarRental-App-BackEnd<br>
+> <br>
+> Here is the link to the management system of this project:https://github.com/DASANIDrinker/CarRental-App-Management-System
 
 ## Build Setup
 
